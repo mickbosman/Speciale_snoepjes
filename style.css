@@ -219,6 +219,9 @@ img{
   max-width:100%;
 }
 
+.gallery-wrapper img {
+}
+
 .gallery-wrapper{
   text-align: center;
   max-width:1200px;
@@ -229,6 +232,11 @@ img{
   //grid-template-columns:repeat(4, 1fr);
   grid-template-columns:repeat(auto-fill, minmax(230px, 1fr));
   grid-gap: 5em;
+}
+
+.image-wrapper {
+  border: 5px solid #021a40;
+  background-color: #ffff;
 }
 
 .center {
