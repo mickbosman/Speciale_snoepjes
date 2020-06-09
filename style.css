@@ -239,6 +239,12 @@ img{
   background-color: #ffff;
 }
 
+.image-person{
+max-width: 60%;
+max-height: 60%;
+margin-right: 100px;
+}
+
 .center {
   text-align: center;
 }
