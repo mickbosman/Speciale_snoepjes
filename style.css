@@ -307,3 +307,70 @@ label img {
 .jou_abbo {
   text-align: center;
 }
+
+.div2_profiel {
+  margin-top: 7%;
+  margin-left: 20%;
+  margin-bottom: 7%;
+  width: 340px;
+  height: 300px;
+  border: 2px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+
+.div2_profiel h5 {
+padding-left: 15%;
+padding-top: 10%;
+}
+
+.div3_profiel {
+  width: 338px;
+  height: 40px;
+  border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.div3_profiel h2 {
+text-align: center;
+}
+
+.div4_profiel {
+    margin-top: 7%;
+  margin-left: 60%;
+  margin-bottom: 7%;
+  width: 340px;
+  height: 300px;
+  border: 2px solid black;
+    box-sizing: border-box;
+
+}
+
+.div4_profiel h5 {
+padding-left: 25%;
+padding-top: 10%;
+}
+
+.div5_profiel {
+  width: 338px;
+  height: 40px;
+  border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.div5_profiel h2 {
+text-align: center;
+}
+
+.image_profiel {
+  width: 50%;
+  padding-top: 16.8%;
+  float:left;
+
+}
+
+.verander_profiel{
+ float: right;
+ padding-top: 45%;
+ padding-right: 2%;
+}
