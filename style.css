@@ -310,7 +310,7 @@ label img {
 
 .div2_profiel {
   margin-top: 7%;
-  margin-left: 20%;
+  margin-left: 15%;
   margin-bottom: 7%;
   width: 340px;
   height: 300px;
@@ -336,7 +336,7 @@ text-align: center;
 }
 
 .div4_profiel {
-    margin-top: 7%;
+    margin-top: 7.5%;
   margin-left: 60%;
   margin-bottom: 7%;
   width: 340px;
@@ -373,4 +373,24 @@ text-align: center;
  float: right;
  padding-top: 45%;
  padding-right: 2%;
+}
+
+.profiel_text {
+
+  text-align: center;
+}
+
+@media (max-width: 880px) {
+.div2_profiel {float: none; margin-left: 26%;}
+.div4_profiel {margin-left: 26%;}
+}
+
+@media (max-width: 600px) {
+.div2_profiel {float: none; margin-left: 23%;}
+.div4_profiel {margin-left: 23%;}
+}
+
+@media (max-width: 500px) {
+.div2_profiel {float: none; margin-left: 19%;}
+.div4_profiel {margin-left: 19%;}
 }
