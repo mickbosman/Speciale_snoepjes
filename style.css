@@ -310,7 +310,7 @@ label img {
 
 .div2_profiel {
   margin-top: 7%;
-  margin-left: 15%;
+  margin-left: 23%;
   margin-bottom: 7%;
   width: 340px;
   height: 300px;
@@ -337,7 +337,7 @@ text-align: center;
 
 .div4_profiel {
     margin-top: 7.5%;
-  margin-left: 60%;
+  margin-left: 55%;
   margin-bottom: 7%;
   width: 340px;
   height: 300px;
@@ -378,6 +378,7 @@ text-align: center;
 .profiel_text {
 
   text-align: center;
+  margin-top: 100px;
 }
 
 @media (max-width: 880px) {
