@@ -381,6 +381,16 @@ text-align: center;
   margin-top: 100px;
 }
 
+@media (max-width: 1300px) {
+.div2_profiel {margin-left: 12%;}
+.div4_profiel { margin-left: 60%; }
+}
+
+@media (max-width: 1000px) {
+.div2_profiel {margin-left: 8%;}
+.div4_profiel { margin-left: 58%; }
+}
+
 @media (max-width: 880px) {
 .div2_profiel {float: none; margin-left: 26%;}
 .div4_profiel {margin-left: 26%;}
