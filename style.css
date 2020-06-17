@@ -447,7 +447,7 @@ label {
 }
 
 .betaal_knop {
-  background-color: #4CAF50;
+  background-color: #45a049;
   color: white;
   padding: 12px;
   margin: 10px 0;
@@ -459,7 +459,7 @@ label {
 }
 
 .btn:hover {
-  background-color: #45a049;
+  background-color: blue;
 }
 
 a {
@@ -484,19 +484,3 @@ span.price {
     margin-bottom: 20px;
   }
 }
-
-
-body {background:#efefef;margin:0;display:block;}
-    h1 { display: none }
-    #back-top {
-position: fixed;
-display:none;
-font-size: 50px;
-color: rgba(0,0,0,0.5);
-bottom: 20px;
-right:40px;
-width:auto;}
-a#back-top:active {background:none;}
-a#back-top {display: block; text-decoration: none;}
-.topup {bottom:5px;}
-#back-top i {display: block;}
